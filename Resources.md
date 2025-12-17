@@ -4,6 +4,6 @@
 
 [Video Coding Basics](https://www.youtube.com/watch?v=LDeL7-49qm4)
 
-**Video Codec Playlist**
+**Best Explanation**
 
-[Understand_Video_Codecs](https://www.youtube.com/playlist?list=PLQC7KLXyA-O3eeIGY8Zz6DUYDcxh8AMKF)
+[vcodexer](https://www.youtube.com/watch?v=gxefuXizO04)
